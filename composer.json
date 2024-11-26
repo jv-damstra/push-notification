@@ -1,5 +1,5 @@
 {
-    "name": "edujugon/push-notification",
+    "name": "ideagen-damstra/push-notification",
     "description": "Laravel Package to send push notifications to Android and IOS devices. (GCM,FCM,APN)",
     "keywords": [
         "Laravel",
