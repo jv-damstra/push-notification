@@ -1,4 +1,5 @@
 {
+    "version": "v2.2.4-laravel5.5-fcmv1",
     "name": "ideagen-damstra/push-notification",
     "description": "Laravel Package to send push notifications to Android and IOS devices. (GCM,FCM,APN)",
     "keywords": [
