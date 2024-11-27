@@ -3,10 +3,9 @@
 namespace Edujugon\PushNotification\Providers;
 
 use Edujugon\PushNotification\PushNotification;
-use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
 
-class PushNotificationServiceProvider extends ServiceProvider implements DeferrableProvider
+class PushNotificationServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
